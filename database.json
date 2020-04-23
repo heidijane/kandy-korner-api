@@ -165,36 +165,60 @@
       "hourlyRate": 18
     },
     {
-      "name": "Test Testerson",
-      "locationId": 2,
+      "name": "Travis Hernandez",
+      "locationId": 1,
       "isManager": false,
-      "isFullTime": false,
-      "hourlyRate": null,
+      "isFullTime": true,
+      "hourlyRate": 15,
       "id": 2
     },
     {
-      "name": "test",
-      "locationId": 2,
+      "name": "Emogene Moore",
+      "locationId": 1,
       "isManager": false,
       "isFullTime": false,
-      "hourlyRate": null,
+      "hourlyRate": 13,
       "id": 3
     },
     {
-      "name": "test 2",
-      "locationId": 2,
+      "name": "Ellis Davies",
+      "locationId": 1,
       "isManager": false,
       "isFullTime": false,
-      "hourlyRate": null,
+      "hourlyRate": 13,
       "id": 4
     },
     {
-      "name": "boo",
+      "name": "Casey Jackson",
+      "locationId": 2,
+      "isManager": true,
+      "isFullTime": true,
+      "hourlyRate": 18,
+      "id": 5
+    },
+    {
+      "name": "Willodean Suter",
+      "locationId": 2,
+      "isManager": false,
+      "isFullTime": true,
+      "hourlyRate": 15.25,
+      "id": 6
+    },
+    {
+      "name": "Evelyne Brantley",
       "locationId": 2,
       "isManager": false,
       "isFullTime": false,
-      "hourlyRate": null,
-      "id": 5
+      "hourlyRate": 13.25,
+      "id": 7
+    },
+    {
+      "name": "Virgil Watkins",
+      "locationId": 2,
+      "isManager": false,
+      "isFullTime": false,
+      "hourlyRate": 13,
+      "id": 8
     }
   ],
   "productTypes": [
