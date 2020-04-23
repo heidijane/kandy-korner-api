@@ -1,0 +1,231 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caramel Square",
+      "productTypeId": 1,
+      "price": ".50"
+    },
+    {
+      "id": 2,
+      "name": "Squirrel Nut Caramel",
+      "productTypeId": 1,
+      "price": ".75"
+    },
+    {
+      "id": 3,
+      "name": "Coffee Caramel",
+      "productTypeId": 1,
+      "price": "1"
+    },
+    {
+      "id": 4,
+      "name": "85% Dark Chocolate Bar",
+      "productTypeId": 2,
+      "price": "4.5"
+    },
+    {
+      "id": 5,
+      "name": "Creamy Milk Chocolate Bar",
+      "productTypeId": 2,
+      "price": "2"
+    },
+    {
+      "id": 6,
+      "name": "White Chocolate Bar",
+      "productTypeId": 2,
+      "price": "3"
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Dipped Graham Cracker",
+      "productTypeId": 2,
+      "price": "1.5"
+    },
+    {
+      "id": 8,
+      "name": "Gummy Bears",
+      "productTypeId": 3,
+      "price": "2"
+    },
+    {
+      "id": 9,
+      "name": "Sour Gummy Worms",
+      "productTypeId": 3,
+      "price": "3"
+    },
+    {
+      "id": 10,
+      "name": "Gummy Cola",
+      "productTypeId": 3,
+      "price": "2.5"
+    },
+    {
+      "id": 11,
+      "name": "Sassafrass Candy Stick",
+      "productTypeId": 4,
+      "price": ".5"
+    },
+    {
+      "id": 12,
+      "name": "Mint Candy Stick",
+      "productTypeId": 4,
+      "price": ".5"
+    },
+    {
+      "id": 13,
+      "name": "Root Beer Candy Stick",
+      "productTypeId": 4,
+      "price": ".5"
+    },
+    {
+      "id": 14,
+      "name": "Rock Candy",
+      "productTypeId": 4,
+      "price": "2"
+    },
+    {
+      "id": 15,
+      "name": "Ribbon Candy",
+      "productTypeId": 4,
+      "price": "1.5"
+    },
+    {
+      "id": 16,
+      "name": "Large Lollipop",
+      "productTypeId": 6,
+      "price": "3"
+    },
+    {
+      "id": 17,
+      "name": "Blow Pop",
+      "productTypeId": 6,
+      "price": ".5"
+    },
+    {
+      "id": 18,
+      "name": "Tootsie Roll Pop",
+      "productTypeId": 6,
+      "price": ".5"
+    },
+    {
+      "id": 19,
+      "name": "Black Licorice",
+      "productTypeId": 5,
+      "price": "1.5"
+    },
+    {
+      "id": 20,
+      "name": "Strawberry Licorice",
+      "productTypeId": 5,
+      "price": "1.5"
+    },
+    {
+      "id": 21,
+      "name": "Gumball",
+      "productTypeId": 7,
+      "price": ".25"
+    },
+    {
+      "id": 22,
+      "name": "Sugar Free Gum",
+      "productTypeId": 7,
+      "price": ".5"
+    },
+    {
+      "id": 23,
+      "name": "Dark Chocolate Peanut Butter Cup",
+      "productTypeId": 2,
+      "price": "1"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Kandy Korner Hillsboro Village",
+      "address": "2100 Fairfax Ave.",
+      "squareFootage": 800,
+      "handicapAccessible": true
+    },
+    {
+      "id": 2,
+      "name": "Kandy Korner East Nashville",
+      "address": "1000 Fatherland St",
+      "squareFootage": 700,
+      "handicapAccessible": true
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Rosanne Graham",
+      "locationId": 1,
+      "isManager": true,
+      "isFullTime": true,
+      "hourlyRate": 18
+    },
+    {
+      "name": "Test Testerson",
+      "locationId": 2,
+      "isManager": false,
+      "isFullTime": false,
+      "hourlyRate": null,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "locationId": 2,
+      "isManager": false,
+      "isFullTime": false,
+      "hourlyRate": null,
+      "id": 3
+    },
+    {
+      "name": "test 2",
+      "locationId": 2,
+      "isManager": false,
+      "isFullTime": false,
+      "hourlyRate": null,
+      "id": 4
+    },
+    {
+      "name": "boo",
+      "locationId": 2,
+      "isManager": false,
+      "isFullTime": false,
+      "hourlyRate": null,
+      "id": 5
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "name": "caramel"
+    },
+    {
+      "id": 2,
+      "name": "chocolate"
+    },
+    {
+      "id": 3,
+      "name": "gummy"
+    },
+    {
+      "id": 4,
+      "name": "hard candy"
+    },
+    {
+      "id": 5,
+      "name": "licorice"
+    },
+    {
+      "id": 6,
+      "name": "lollipop"
+    },
+    {
+      "id": 7,
+      "name": "gum"
+    }
+  ],
+  "customers": []
+}
