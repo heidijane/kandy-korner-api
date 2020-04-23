@@ -251,5 +251,59 @@
       "name": "gum"
     }
   ],
-  "customers": []
+  "customers": [
+    {
+      "email": "heidi@me.com",
+      "password": "1234",
+      "name": "Heidi Sprouse",
+      "id": 1
+    }
+  ],
+  "customerCandy": [
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 1
+    },
+    {
+      "customerId": 1,
+      "productId": 2,
+      "id": 2
+    },
+    {
+      "customerId": 1,
+      "productId": 4,
+      "id": 3
+    },
+    {
+      "customerId": 1,
+      "productId": 2,
+      "id": 4
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 5
+    },
+    {
+      "customerId": 1,
+      "productId": 1,
+      "id": 6
+    },
+    {
+      "customerId": 1,
+      "productId": 4,
+      "id": 7
+    },
+    {
+      "customerId": 1,
+      "productId": 2,
+      "id": 8
+    },
+    {
+      "customerId": 1,
+      "productId": 11,
+      "id": 9
+    }
+  ]
 }
